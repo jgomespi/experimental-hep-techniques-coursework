@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local outputs
+outputs/
+figures/generated/
+results/generated/
+
+# Logs
+*.log
