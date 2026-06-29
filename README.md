@@ -1,10 +1,8 @@
 # Experimental High-Energy Physics Techniques Coursework
 
-Educational laboratory and data-analysis notebooks from the graduate course **Técnicas de Análise de Dados para Física de Altas Energias**, at Universidade do Estado do Rio de Janeiro (UERJ).
+Educational laboratory and data-analysis notebooks from the graduate course **Técnicas Experimentais para Física de Altas Energias**, at Universidade do Estado do Rio de Janeiro (UERJ).
 
 This repository collects a sequence of experimental exercises focused on instrumentation, detector signals, calibration, counting statistics, timing measurements, and data analysis methods used in high-energy physics laboratories.
-
-The material is complementary to the final CMS Open Data Upsilon analysis project. While the Upsilon project applies analysis techniques to public collider data, this repository documents the experimental and instrumental foundations developed throughout the course.
 
 ## Repository structure
 
