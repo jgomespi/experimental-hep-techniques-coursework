@@ -51,9 +51,3 @@ This repository collects a sequence of experimental exercises focused on instrum
 This is an educational coursework repository. It is preserved as a public portfolio example of experimental physics data analysis, detector instrumentation, reproducible notebook organization, and scientific documentation.
 
 The repository contains only course material and local experimental data files. It does not contain CMS-internal documentation, private collaboration material, or unpublished collaboration-restricted analysis content.
-
-## Relation to other projects
-
-The final course project based on CMS Open Data is available separately as:
-
-    cms-opendata-upsilon-analysis
